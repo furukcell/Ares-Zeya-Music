@@ -1,8 +1,8 @@
-# 🎵 Ares & Zeya — AI Music Universe
+# 🎵 FK AI Music Studio — AI Music Universe
 
-> **İki özgün sanal sanatçı. İki ayrı hayat. Tek bir müzik evreni.**
+> **Üç özgün sanal sanatçı. Üç ayrı hayat. Tek bir müzik evreni.**
 
-Bu repository, **Ares** ve **Zeya** adlı iki özgün sanal müzik sanatçısının karakterlerini, hikâyelerini, vokal kimliklerini, görsel kimliklerini ve ürettikleri müzikleri uzun vadede tutarlı şekilde geliştirmek için oluşturulmuştur.
+Bu repository, **Ares**, **Zeya** ve **VEX** adlı üç özgün sanal müzik sanatçısının karakterlerini, hikâyelerini, vokal kimliklerini, görsel kimliklerini ve ürettikleri müzikleri uzun vadede tutarlı şekilde geliştirmek için oluşturulmuştur.
 
 Projenin amacı yalnızca AI ile şarkı üretmek değildir.
 
@@ -12,11 +12,12 @@ Projenin amacı yalnızca AI ile şarkı üretmek değildir.
 
 ## 🎤 Projenin Temeli
 
-Projede iki ayrı sanal sanatçı bulunur:
+Projede üç ayrı sanal sanatçı bulunur:
 
 | Sanatçı | Gerçek Adı | Sahne Adı | Ana Tarz |
 |---|---|---|---|
 | Kadın sanatçı | Zeynep | **Zeya** | Güçlü kadın vokal, slow-pop, modern pop |
+| Erkek sanatçı | Efe | **VEX** | Satirik Türkçe rap, hikâye odaklı rap |
 | Erkek sanatçı | Aras | **Ares** | Pop-rap, modern rap, melodik rap |
 
 Ares ve Zeya:
@@ -157,9 +158,67 @@ Ares'in yüzü, saçı ve temel fiziksel özellikleri gelecekteki görsellerde m
 
 ---
 
+# 🎤 VEX
+
+**Gerçek adı:** Efe  
+**Sahne adı:** VEX
+
+> **“Herkes bir şey satıyor. Ben sadece ne sattıklarını söylüyorum.”**
+
+VEX, günlük hayatın saçmalıklarını **gözlem, kafiye, kelime oyunları, hikâye ve mizah** üzerinden rap'e dönüştüren satirik bir sanal rap sanatçısıdır.
+
+## Müzikal kimliği
+
+VEX'in ana ekseni:
+
+- Satirik Türkçe rap
+- Hikâye odaklı rap
+- Modern hip-hop
+- Lirik rap
+- Mizahi rap
+
+VEX'in sözleri slogan dizisi gibi değil, gerçek bir rap şarkısı gibi ilerlemelidir.
+
+**Yaklaşık %70 hikâye / gözlem / kafiye + %30 punchline / taşlama / akılda kalıcı söz.**
+
+Plaza kültürü, toplantılar, KPI'lar, maaşlar, LinkedIn, Instagram, TikTok, YouTube, Spotify, influencer kültürü ve kişisel gelişim klişeleri önemli malzemelerdir. Ancak VEX yalnızca plaza taşlaması yapan bir karakter değildir; şehir hayatı, ilişkiler, para, başarı, başarısızlık, müzik sektörü ve kendi hayatı da şarkılarına girer.
+
+## Flow ve vokal
+
+- Orta-hızlı, net ve anlaşılır rap
+- Konuşur gibi doğal delivery
+- Güçlü kafiye ve kelime oyunları
+- Punchline öncesi kısa duraklama
+- Gerektiğinde kısa hızlı bölümler
+- Aşırı agresif olmayan ama enerjik performans
+
+**Hız gösterisi değil, söz ve akış önceliklidir.**
+
+## Görsel kimlik
+
+VEX'in görsel kimliği Ares'ten özellikle ayrıdır.
+
+- 28 yaş hissi
+- **3 numara / çok kısa koyu saç**
+- **Belirgin, kısa ve dolgun sakal**
+- **Hafif kilolu / hafif göbekli; ancak şişman olmayan yapı**
+- Daha dolgun ve geniş gövde
+- Hafif alaycı, kendinden emin ifade
+- Plaza + sokak tarzı
+- Gömlek, kravat, bomber, deri ceket, hoodie, oversize tişört gibi parçalar
+- **Kalın zincir üzerinde büyük “V” veya “VEX” kolyesi**
+
+VEX'in büyük **V / VEX kolyesi görsel imzasıdır.**
+
+Ares'in dağınık saçlı, fit/atletik siluetine yaklaşmamalıdır. VEX'in kısa saçı, belirgin sakalı, daha dolgun vücut yapısı ve imza kolyesi yeni görsellerde korunmalıdır.
+
+Detaylı karakter dosyası: `characters/VEX.md`
+
+---
+
 # ❤️ ORTAK MÜZİK EVRENİ
 
-Ares ve Zeya'nın hayatları birbirlerinden bağımsız ilerler.
+Ares, Zeya ve VEX'in hayatları birbirlerinden bağımsız ilerler.
 
 Zaman zaman aynı şehir, aynı gece, aynı mekan, aynı olay veya aynı duygu üzerinden hikâyeleri kesişebilir.
 
@@ -323,7 +382,7 @@ Sanatçının vokal karakterinin bu şarkıda nasıl kullanılacağını belirti
 
 # 🖼️ GÖRSEL SÜREKLİLİK
 
-Ares ve Zeya için oluşturulan karakter referans görselleri temel referans olarak kabul edilir.
+Ares, Zeya ve VEX için oluşturulan karakter referans görselleri temel referans olarak kabul edilir.
 
 Görsel üretiminde hedef:
 
@@ -346,9 +405,9 @@ Görsel referanslar:
 
 `visuals/zeya/`
 
-ve
-
 `visuals/ares/`
+
+`visuals/vex/`
 
 altında tutulacaktır.
 
@@ -366,6 +425,13 @@ Uzun vadede her sanatçının kendi sosyal medya kimliği olacaktır.
 - Müzik platformları
 
 ### Ares
+
+- Instagram
+- YouTube
+- TikTok
+- Müzik platformları
+
+### VEX
 
 - Instagram
 - YouTube
@@ -468,7 +534,7 @@ Bu projenin ana yaklaşımı:
 
 > **Şarkı üretmek değil, sanatçı yetiştirmek.**
 
-Ares ve Zeya'nın:
+Ares, Zeya ve VEX'in:
 
 - geçmişi,
 - bugünü,
@@ -493,7 +559,8 @@ Ares-Zeya-Music/
 │
 ├── characters/
 │   ├── ZEYA.md
-│   └── ARES.md
+│   ├── ARES.md
+│   └── VEX.md
 │
 ├── universe/
 │   ├── story.md
@@ -524,7 +591,7 @@ Ares-Zeya-Music/
 ## 📌 Durum
 
 **Proje:** Başlangıç aşaması  
-**Karakterler:** Zeya + Ares ✅  
+**Karakterler:** Zeya + Ares + VEX ✅  
 **Görsel karakter referansları:** İlk referanslar oluşturuldu ✅  
 **Hikâye altyapısı:** Belirlendi ✅  
 **Vocal DNA:** Oluşturulacak  
@@ -541,7 +608,7 @@ Ares-Zeya-Music/
 
 İlk hedef:
 
-**Ares'in sesini ve müzikal karakterini oluşturup ilk şarkıda doğru şekilde duyurmak.**
+**Ares, Zeya ve VEX'in seslerini ve müzikal karakterlerini birbirinden net biçimde ayırmak; her yeni şarkıda karakter sürekliliğini korumak.**
 
 Ardından aynı süreç Zeya için uygulanacaktır.
 
