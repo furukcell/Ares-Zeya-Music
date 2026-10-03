@@ -1,0 +1,5 @@
+# ZEYA — BIRAK AKSIN
+
+## Suno Styles Prompt
+
+Modern Turkish emotional dance-pop, contemporary 2026 pop production, emotional but energetic, female lead vocal, warm natural slightly breathy tone, expressive and elegant vocal character, intimate soft verses, powerful melodic chorus, catchy memorable hook, danceable mid-tempo groove, 104 BPM, warm piano, atmospheric synths, deep warm bass, modern punchy pop drums, rhythmic percussion, emotional synth lead, sophisticated night-drive atmosphere, bittersweet but uplifting mood, dynamic arrangement with long instrumental sections, instrumental intro, instrumental breaks between vocal sections, instrumental dance break after second chorus, strong build-ups, huge final chorus, wide vocal harmonies, polished commercial production, cinematic atmosphere without becoming overly dramatic, natural human emotion
