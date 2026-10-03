@@ -268,29 +268,50 @@ VEX bağırmaz.
 
 ## Görsel Kimlik
 
-### Yüz
+VEX'in görünümü Ares'ten **bilinçli olarak belirgin şekilde ayrılmalıdır.**
+
+VEX, Ares gibi fit/atletik, genç ve dağınık saçlı bir rapçi görüntüsüne sahip değildir.
+
+### Yüz ve saç
+
 - 28 yaş hissi
-- Dağınık koyu saç
-- Kısa sakal
-- Belirgin yüz hatları
+- **3 numara / çok kısa koyu saç**
+- **Belirgin, kısa ve dolgun sakal**
+- Daha geniş ve dolgun yüz hatları
 - Hafif alaycı / ironik ifade
 - Kendinden emin bakış
 
 ### Vücut
-- Fit
-- İnce/atletik
-- Doğal görünüm
+
+- **Hafif kilolu / hafif göbekli**
+- **Şişman değil; doğal, hafif toplu ve güçlü görünüm**
+- Omuzları ve gövdesi dolgun
 - Aşırı kaslı değil
+- Aşırı zayıf değil
+- Doğal ve gerçekçi vücut oranları
+
+Bu fiziksel yapı VEX'in kanonik kimliğidir ve sonraki görsellerde değiştirilmemelidir.
+
+### Takı / İmza Aksesuar
+
+VEX'in en önemli görsel imzalarından biri **büyük V / VEX kolyesidir.**
+
+- Kalın zincir
+- Büyük metalik **“V”** veya **“VEX”** kolye ucu
+- Kolye uzaktan bile fark edilebilir
+- Bazı görsellerde tek büyük V, bazı görsellerde VEX yazısı kullanılabilir
+- Kolye karakterin imza aksesuarıdır
+
+Kolye, VEX'in görsel kimliğinde Ares'ten ayrışmasına yardımcı olan temel unsurlardan biridir.
 
 ### Stil
 
-VEX'in görünümü Ares'ten belirgin şekilde ayrılmalıdır.
+VEX'in görünümü:
 
-Stil iki dünyanın arasında durur:
-
-**Plaza + sokak**
+**Plaza + sokak + hafif ironik özgüven**
 
 Kullanılabilecek parçalar:
+
 - Gömlek
 - Kravat
 - Kumaş pantolon
@@ -299,11 +320,28 @@ Kullanılabilecek parçalar:
 - Deri ceket
 - Hoodie
 - Oversize tişört
-- Sade aksesuarlar
+- Sade veya metalik aksesuarlar
+- Büyük V / VEX kolye
 
-Bazen tamamen plaza çalışanı gibi, bazen tamamen sokak sanatçısı gibi görünebilir.
+VEX bazen ofis çalışanı gibi, bazen sokak rapçisi gibi görünebilir.
 
-Bu kontrast karakterin mizahının bir parçasıdır.
+Ancak klasik gangster/mafya estetiğine kaymamalıdır.
+
+## Ares'ten Görsel Ayrım
+
+VEX ile Ares'in aynı kişi gibi görünmesi engellenmelidir.
+
+| Özellik | Ares | VEX |
+|---|---|---|
+| Saç | Dağınık koyu saç | **3 numara / çok kısa saç** |
+| Sakal | Hafif / kısa sakal | **Daha belirgin ve dolgun sakal** |
+| Vücut | Fit / atletik | **Hafif kilolu / hafif göbekli** |
+| Genel siluet | İnce/atletik | **Daha dolgun ve geniş** |
+| Stil | Modern streetwear | **Plaza + sokak** |
+| İmza aksesuar | Genel aksesuarlar | **Büyük V / VEX kolyesi** |
+| Genel ifade | Cool / özgüvenli | **İronik / gözlemci / hafif ukala** |
+
+Bu ayrım karakter sürekliliğinin önemli bir parçasıdır.
 
 ## Görsel Atmosfer
 
@@ -373,6 +411,11 @@ Plaza taşlamasından başlayıp sosyal medya, müzik sektörü, ilişkiler, ark
 - Gerçek adı: Efe
 - Erkek karakter
 - 28 yaş hissi
+- **3 numara / çok kısa koyu saç**
+- **Belirgin kısa ve dolgun sakal**
+- **Hafif kilolu / hafif göbekli, ancak şişman olmayan yapı**
+- **Büyük V veya VEX kolyesi**
+- Ares'ten belirgin fiziksel ayrım
 - Satirik Türkçe rap
 - Güçlü kafiye ve kelime oyunları
 - Hikâye anlatımı
@@ -391,7 +434,9 @@ Karakter referans görselleri:
 
 altında tutulacaktır.
 
-Yeni görsellerde bu referanslar temel alınmalıdır.
+Yeni görsellerde referanslar temel alınmalıdır.
+
+Özellikle yüz, saç uzunluğu, sakal yoğunluğu, vücut yapısı ve **V/VEX kolyesi** korunmalıdır.
 
 ## Kanonik Cümle
 
