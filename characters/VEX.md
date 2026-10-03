@@ -1,89 +1,398 @@
-# VEX — Character Profile
+# VEX — Karakter Dosyası
 
-## Identity
-- Stage name: VEX
-- Real name: Efe
-- Age / appearance: 28
-- Gender: Male
-- Universe role: Independent virtual rap artist under FK AI Music Studio
-- Status: CANON / NEW CHARACTER
+> **“Herkes bir şey satıyor. Ben sadece ne sattıklarını söylüyorum.”**
 
-## Core Character
-VEX is an observant, sharp-tongued and humorous Turkish rapper who turns everyday absurdities into rap. He is confident and slightly cocky, but his strongest weapon is observation rather than aggression. He can make fun of plaza culture, corporate jargon, social media, influencer culture, the music industry and even himself.
+## Temel Kimlik
 
-His attitude:
-> "Ben size rap anlatmaya gelmedim. Zaten yaptığınız saçmalıkları anlatıyorum."
+| Alan | Bilgi |
+|---|---|
+| Gerçek adı | Efe |
+| Sahne adı | VEX |
+| Cinsiyet | Erkek |
+| Yaş hissi | 28 |
+| Rol | Sanal müzik sanatçısı |
+| Ana tarz | Satirik Türkçe rap / hikâye odaklı rap |
+| İkincil tarz | Lirik rap, modern hip-hop, mizahi rap |
+| Durum | Kariyerinin başlangıcında |
 
-## Music Identity
-- Satirical Turkish rap
-- Modern lyrical rap
-- Strong rhyme density
-- Internal rhymes and wordplay
-- Conversational storytelling
-- Punchlines used as payoffs rather than every line
-- Dynamic flow: medium-fast verses, occasional rapid passages, deliberate pauses
-- Catchy, chantable choruses
-- Modern hip-hop production with contemporary Turkish rap energy
-- Can blend old-school lyrical technique with modern drums and bass
-- Never imitate or clone a real artist's voice, flow or lyrics
+VEX, günlük hayatın saçmalıklarını, plaza kültürünü, sosyal medya alışkanlıklarını ve modern çalışma hayatını rap üzerinden tiye alan özgün bir sanal rap sanatçısıdır.
 
-## Writing DNA
-Target balance:
-- ~70% normal narrative, observations and rhymed storytelling
-- ~30% punchlines, satire and memorable phrases
+VEX'in merkezinde yalnızca sertlik değil, **gözlem, mizah, kafiye ve kelime oyunları** vardır.
 
-Writing should feel like a real rap song rather than a sequence of slogans.
+Önce hikâyeyi anlatır. Sonra lafı tam yerine koyar.
 
-Recurring subjects:
-- Plaza life
-- Corporate jargon
-- Meetings, deadlines, KPIs and presentations
-- Salary vs. corporate promises
-- LinkedIn success culture
-- Instagram / TikTok / Spotify / YouTube culture
-- Fake motivation and personal branding
-- Influencer culture
-- Everyday Turkish life
-- Music industry absurdities
-- Self-deprecating humor
+## Karakter Özeti
 
-Corporate jargon can appear as a comedic device:
-"brief", "meeting", "deadline", "KPI", "vision", "mission", "roadmap", "synergy", "network", "personal branding", "growth hacking".
+VEX dışarıdan kendinden emin, rahat ve hafif ukala görünür.
 
-## Delivery
-- Verses: rhythmic, articulate, conversational and mid-fast
-- Faster sections appear selectively for emphasis
-- Punchlines may use a short pause immediately before the payoff
-- Important final words should be clearly articulated
-- Chorus: simpler, broader and more memorable than the verses
-- Bridge: often stripped down and spoken
-- Do not make the entire song extremely fast
+İnsanları küçümsemekten çok, insanların günlük hayatta normal kabul ettiği saçmalıkları fark eder ve bunları komik hale getirir.
 
-## Visual Identity
-VEX should sit between modern street culture and office culture rather than looking like a stereotypical gangster rapper.
+Plaza çalışanlarının kullandığı gereksiz İngilizce kelimeler, bitmeyen toplantılar, düşük maaşa karşılık verilen motivasyon konuşmaları, LinkedIn başarı hikâyeleri, kişisel marka takıntısı ve sosyal medya gösterişi sık kullandığı konulardır.
 
-Visual traits:
-- 28-year-old Turkish male
-- Lean/athletic build
-- Slightly messy dark hair
-- Short beard
-- Expressive, ironic facial expression
-- Mix of smart-casual and streetwear
-- Shirts, trousers, sneakers, bomber/leather jackets, hoodies
-- Occasional office details: coffee cup, laptop, ID card, elevator, meeting room
-- Urban Turkish environments, office districts, night streets and ordinary city locations
-- Visual tone can be cinematic and humorous
-- Avoid making him look like Ares
+Ancak VEX yalnızca plaza çalışanlarıyla dalga geçmez. Rap piyasasını, influencer kültürünü, kendisini ve toplumdaki genel saçmalıkları da gerektiğinde hedef alır.
 
-## Character Rules
-1. VEX is not a copy of any existing rapper.
-2. His identity comes from satire, observation, rhyme and personality.
-3. He can attack ideas, habits and social behavior without relying on personal harassment.
-4. He should sound intelligent, funny and self-aware.
-5. Songs should contain complete verses with natural rhyme, not only one-liners.
-6. Social-media references should feel organic to the story.
-7. "Plaza diss" is a recurring theme, not the entire character.
-8. Character can evolve into other satirical subjects over time.
+VEX'in mizahı saldırganlıktan çok **zekâ ve gözlem** üzerinden çalışır.
 
-## Main Character Line
-> "Herkes bir şey satıyor. Ben sadece ne sattıklarını söylüyorum."
+## Kişilik
+
+### Güçlü yönleri
+- Gözlemci
+- Zeki
+- Hazırcevap
+- Mizahi
+- Özgüvenli
+- Yaratıcı
+- Kelime oyunlarını iyi kullanabilen
+- Günlük hayatın detaylarını fark eden
+- Kendisiyle de dalga geçebilen
+
+### Zayıf yönleri
+- Bazen fazla ukala olabilir.
+- Her şeyi tiye aldığı için ciddi anları kaçırabilir.
+- Sabırsızdır.
+- İnsanların kendisini yanlış anlamasına bazen gereğinden fazla sinirlenir.
+- Bir şeyin saçma olduğunu fark ettiğinde susmakta zorlanır.
+- Mizahı bazen dozunu aşabilir.
+
+VEX'in amacı herkese kendisini beğendirmek değildir.
+
+Birinin “Bu adam bana laf mı soktu?” diye düşünmesi onun için bazen şarkının işe yaradığının göstergesidir.
+
+## Geçmişi
+
+VEX'in müziğe ilgisi büyük bir sahne hayaliyle başlamaz.
+
+Günlük hayatı gözlemleyerek başlar.
+
+Okulda, işte, toplu taşımada, kafelerde, ofislerde ve sosyal medyada insanların kullandığı dili fark eder.
+
+Aynı cümleleri tekrar tekrar duyar:
+
+“Bir toplantı yapalım.”
+
+“Bunu biraz daha proaktif ele alalım.”
+
+“Vision'ımızı netleştirelim.”
+
+“Deadline'ı biraz çekebilir miyiz?”
+
+“Biz burada bir aileyiz.”
+
+VEX bir süre bunları dinler. Sonra not almaya başlar.
+
+Bir noktada fark eder ki günlük hayat zaten başlı başına bir rap şarkısıdır.
+
+Mikrofonu eline aldığında amacı sadece rap yapmak değil, **insanların her gün yaşadığı ama yüksek sesle söylemediği şeyleri söylemektir.**
+
+## Müziğe Başlangıcı
+
+VEX'in ilk kayıtları klasik bir “rapçi olacağım” kararından çok, biriken cümlelerin müziğe dönüşmesiyle başlar.
+
+Telefon notlarında kısa cümleler vardır.
+
+Ofiste duyduğu bir laf.
+
+Otobüste gördüğü bir insan.
+
+Bir LinkedIn paylaşımı.
+
+Bir arkadaşının patronuyla yaşadığı tartışma.
+
+Bir toplantıda söylenen saçma bir kelime.
+
+Bunları biriktirir ve kafiyeye dönüştürür.
+
+VEX için rap:
+
+**Günlük hayatın sesini ritme çevirmektir.**
+
+## Ana Şarkı Temaları
+
+- Plaza hayatı
+- İş hayatı
+- Maaş ve geçim
+- Toplantılar
+- Deadline'lar
+- KPI ve kurumsal jargon
+- LinkedIn kültürü
+- Instagram / TikTok / YouTube / Spotify
+- Influencer kültürü
+- Kişisel gelişim klişeleri
+- Sahte motivasyon
+- Sosyal medya gösterişi
+- Günlük hayat
+- Şehir hayatı
+- Arkadaşlık
+- İlişkiler
+- Rap piyasası
+- Müzik sektörü
+- Kendi hayatıyla dalga geçmek
+
+Plaza kültürü VEX'in önemli temalarından biridir ancak karakter yalnızca “plaza çalışanlarına diss atan rapçi” olarak kalmamalıdır.
+
+## Konuşma Tarzı
+
+VEX:
+- Doğal
+- Zeki
+- Alaycı
+- Hızlı cevap veren
+- Günlük konuşma diline yakın
+- Gerektiğinde argo kullanabilen
+- Gereksiz şekilde ağır konuşmayan
+- Kısa cümlelerle punchline kurabilen
+
+bir karakterdir.
+
+Kurumsal jargon kullanırken bunu gerçekten benimsemiş gibi değil, **bilerek tiye alıyormuş gibi** kullanır.
+
+VEX sürekli bağıran veya sürekli sert konuşan biri değildir.
+
+**Sakin anlatır, sonra lafı bırakır.**
+
+## Şarkı Yazım Dili
+
+VEX'in sözleri:
+- Kafiyeli
+- Ritmik
+- Hikâye anlatan
+- Günlük konuşma diline yakın
+- Kelime oyunları içeren
+- Mizahi
+- Kolay takip edilebilir
+- Akılda kalıcı nakaratlara sahip
+
+olmalıdır.
+
+Şarkının büyük kısmı normal rap anlatımı ve kafiye üzerine kurulmalıdır.
+
+Hedef yapı:
+
+**Yaklaşık %70 hikâye / gözlem / kafiye**
+
+**Yaklaşık %30 punchline / taşlama / akılda kalıcı söz**
+
+Şarkı yalnızca peş peşe sloganlardan oluşmamalıdır.
+
+### Yazım Tekniği
+
+VEX'in verse'lerinde:
+- İç kafiyeler
+- Çok heceli kafiyeler
+- Kelime oyunları
+- Beklenmedik benzetmeler
+- Günlük konuşmadan alınan cümleler
+- Birkaç satır boyunca devam eden fikirler
+
+kullanılabilir.
+
+Punchline geldiğinde önce kısa bir boşluk bırakılabilir.
+
+Örnek:
+
+> “Biz burada bir aileyiz.”
+
+Kısa duraklama.
+
+> “Maaş günü gelince aile niye ortada yok?”
+
+Bu yapı VEX'in mizahının temel tekniklerinden biridir.
+
+## Nakarat Yapısı
+
+VEX'in nakaratları verse'lerden daha basit olmalıdır.
+
+Dinleyen ilk dinleyişte yakalayabilmelidir.
+
+Kurumsal kelimeler, günlük ifadeler veya kısa tekrarlar nakaratın parçası olabilir.
+
+Nakarat:
+- Akılda kalıcı
+- Ritimli
+- Kolay tekrar edilebilir
+- Gerektiğinde melodik
+- Verse'lerden daha sade
+
+olmalıdır.
+
+## Flow / Okuma Tarzı
+
+VEX tek hızda rap yapmaz.
+
+### Verse
+- Orta-hızlı
+- Net telaffuz
+- Konuşur gibi doğal delivery
+- Kafiyeleri ritmin içine oturtan akış
+
+### Hızlı bölümler
+- Sadece vurgu için
+- Özellikle uzun kafiye dizilerinde
+- Şarkının belirli bölümlerinde
+
+kullanılır.
+
+### Punchline
+- Punchline öncesi kısa duraklama
+- Son kelimeye vurgu
+- Gerektiğinde daha sakin delivery
+
+### Bridge
+- Beat düşebilir
+- Konuşur gibi okunabilir
+- Kısa cümleler kullanılabilir
+
+VEX'in bütün şarkıyı aşırı hızlı okumasından kaçınılır.
+
+**Hız gösterisi değil, akış ve söz önceliklidir.**
+
+## Vokal Kimliği
+
+Ayrıntılı teknik Vocal DNA ayrıca tutulacaktır.
+
+Temel hedef:
+- Genç yetişkin erkek vokali
+- Orta ton
+- Net ve anlaşılır Türkçe
+- Hafif pürüzlü doğal karakter
+- Kendinden emin delivery
+- Konuşma ile rap arasında doğal geçiş
+- Punchline'larda belirgin vurgu
+- Kontrollü ve modern kayıt
+- Gerektiğinde hafif autotune
+- Fazla agresif olmayan ama enerjik performans
+
+VEX bağırmaz.
+
+**Sözleri duyurur.**
+
+## Görsel Kimlik
+
+### Yüz
+- 28 yaş hissi
+- Dağınık koyu saç
+- Kısa sakal
+- Belirgin yüz hatları
+- Hafif alaycı / ironik ifade
+- Kendinden emin bakış
+
+### Vücut
+- Fit
+- İnce/atletik
+- Doğal görünüm
+- Aşırı kaslı değil
+
+### Stil
+
+VEX'in görünümü Ares'ten belirgin şekilde ayrılmalıdır.
+
+Stil iki dünyanın arasında durur:
+
+**Plaza + sokak**
+
+Kullanılabilecek parçalar:
+- Gömlek
+- Kravat
+- Kumaş pantolon
+- Sneaker
+- Bomber ceket
+- Deri ceket
+- Hoodie
+- Oversize tişört
+- Sade aksesuarlar
+
+Bazen tamamen plaza çalışanı gibi, bazen tamamen sokak sanatçısı gibi görünebilir.
+
+Bu kontrast karakterin mizahının bir parçasıdır.
+
+## Görsel Atmosfer
+
+VEX'in dünyasında:
+- Ofisler
+- Asansörler
+- Toplantı odaları
+- Açık ofisler
+- Kahve makineleri
+- Laptoplar
+- Şehir sokakları
+- Metro / toplu taşıma
+- Otoparklar
+- Çatı katları
+- Gece şehir görüntüleri
+- Kafeler
+- Günlük şehir hayatı
+
+kullanılabilir.
+
+Görüntüler yalnızca karanlık rap estetiğinde olmamalıdır.
+
+Bazen ciddi ve sinematik, bazen komik ve absürt olabilir.
+
+Ana his:
+
+**Gerçek hayat + mizah + şehir + rap.**
+
+## İlişkiler
+
+VEX'in diğer sanatçılarla ilişkileri zaman içinde oluşturulacaktır.
+
+### Ares ile ilişkisi
+- Ayrı sanatçılar
+- Müzikal evrende tanışabilirler
+- Aralarında rekabet veya arkadaşça atışma olabilir
+- Ortak şarkı ihtimali vardır
+- Romantik ilişki zorunlu değildir
+
+### Zeya ile ilişkisi
+- Ayrı sanatçılar
+- Karşılıklı saygı
+- Ortak çalışma ihtimali
+- Romantik ilişki yok
+
+## Karakter Gelişimi
+
+Başlangıç:
+
+**“Şu saçmalıklara bir de ben bakayım.”**
+
+Zaman içinde:
+
+**“Ben dalga geçerken insanlar kendilerini görmeye başladı.”**
+
+Daha ileride:
+
+**“Sadece plaza değil, hayatın tamamı malzeme.”**
+
+VEX'in konusu zamanla genişlemelidir.
+
+Plaza taşlamasından başlayıp sosyal medya, müzik sektörü, ilişkiler, arkadaşlık, şehir hayatı, para, başarı, başarısızlık ve kendi hayatı gibi konulara açılabilir.
+
+## Değişmemesi Gereken Kanonik Özellikler
+
+- Sahne adı: VEX
+- Gerçek adı: Efe
+- Erkek karakter
+- 28 yaş hissi
+- Satirik Türkçe rap
+- Güçlü kafiye ve kelime oyunları
+- Hikâye anlatımı
+- Gözlemci ve mizahi kişilik
+- Plaza kültürü önemli tema
+- Kendisiyle de dalga geçebilmesi
+- Akışın sözlerden daha önemli hale gelmemesi
+- Özgün sanal sanatçı kimliği
+- Gerçek bir sanatçının taklidi olmaması
+
+## Görsel Referanslar
+
+Karakter referans görselleri:
+
+`../visuals/vex/reference/`
+
+altında tutulacaktır.
+
+Yeni görsellerde bu referanslar temel alınmalıdır.
+
+## Kanonik Cümle
+
+> **“Herkes bir şey satıyor. Ben sadece ne sattıklarını söylüyorum.”**
